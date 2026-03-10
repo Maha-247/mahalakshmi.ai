@@ -1,20 +1,16 @@
 ---
-# Leave the homepage title empty to use the site title
 title: ''
 date: 2022-10-24
 type: landing
 
 design:
-  # Default section spacing
   spacing: '6rem'
 
 sections:
   - block: resume-biography-3
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: ''
-      # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
         url: uploads/resume.pdf
@@ -23,22 +19,15 @@ sections:
         education: ''
         interests: ''
     design:
-      # Apply a gradient background
       css_class: hbx-bg-gradient
-      # Avatar customization
       avatar:
         size: medium
         shape: circle
   - block: markdown
     content:
-      title: '🔬 My Research'
+      title: 'My Research'
       subtitle: ''
-      text: |-
-        My research sits at the intersection of **LLM systems**, **recommender systems**, and **ML efficiency**. I focus on understanding how large language models can be deployed effectively as agents — with a particular interest in context efficiency, cost-quality tradeoffs, and real-world benchmarking.
-
-        I'm also deeply interested in LLM inference infrastructure (vLLM, PagedAttention, LoRA), GPU optimization, and distributed ML systems.
-
-        I'm actively building toward PhD applications and collaborating on research in ML systems and agents. Please reach out if you'd like to collaborate! 😃
+      text: 'My research focuses on LLM inference efficiency, GPU optimization, and LLM-based agents. I am interested in the systems that make large-scale AI practical, from CUDA kernel optimization and GPU memory management to LLM serving infrastructure such as vLLM and PagedAttention. My current work explores context efficiency and cost-quality tradeoffs in LLM-based recommendation agents. Please reach out to collaborate!'
     design:
       columns: '1'
   - block: collection
@@ -63,15 +52,6 @@ sections:
     design:
       view: citation
   - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - events
-    design:
-      view: card
-  - block: collection
     id: news
     content:
       title: Recent News
@@ -93,3 +73,4 @@ sections:
       view: card
       spacing:
         padding: [0, 0, 0, 0]
+---
