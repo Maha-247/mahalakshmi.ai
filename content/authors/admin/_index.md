@@ -55,7 +55,7 @@ education:
     date_start: 2022-08-01
     date_end: ''
     summary: |
-      Specializing in Machine Learning. Coursework includes Deep Learning (CS 7643) and Graduate Operating Systems (CS 6200).
+      Specializing in Machine Learning.
   - area: BE Electrical and Electronics Engineering
     institution: Anna University
     icon: ""
@@ -138,8 +138,8 @@ awards: []
 
 Mahalakshmi Venkateswarlu is an ML Researcher and Engineer with ~6 years of industry experience, currently pursuing an MS in Computer Science (Machine Learning specialization) at Georgia Tech's OMSCS program.
 
-Her research focuses on **LLM inference efficiency**, **GPU optimization**, and **LLM-based agents**. She is passionate about understanding and improving the systems that make large-scale AI practical — from CUDA kernel optimization and GPU memory management to LLM serving infrastructure such as vLLM, PagedAttention, and Mixture-of-Experts routing. Her current work sits at the intersection of recommender systems and LLM agents, exploring context efficiency and cost-quality tradeoffs at scale.
+Her research focuses on **LLM inference efficiency**, **GPU optimization**, and **LLM-based agents**. She is passionate about understanding and improving the systems that make large-scale AI practical from CUDA kernel optimization and GPU memory management to LLM serving infrastructure such as vLLM, PagedAttention, and Mixture-of-Experts routing. Her current work sits at the intersection of recommender systems and LLM agents, exploring context efficiency and cost-quality tradeoffs at scale.
 
-Her paper *"Less is More: Benchmarking LLM Based Recommendation Agents"* was accepted for **oral presentation** at the LARS Workshop, ACM The Web Conference 2026 (WWW 2026), co-authored with a collaborator from UC Santa Cruz.
+Her paper *"Less is More: Benchmarking LLM Based Recommendation Agents"* was accepted for **oral presentation** at the LARS Workshop, ACM The Web Conference 2026 (WWW 2026)
 
 Previously, she worked as an ML Engineer at **Zoho Corporation** and as a Software Engineer at **Cognizant Technology Solutions**, building distributed systems, cloud infrastructure on AWS, and production ML pipelines. She is also building **AIwithMaha**, an educational brand for making ML and AI more accessible.
