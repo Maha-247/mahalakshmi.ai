@@ -1,21 +1,5 @@
 
 
-## Your Career Starts Here
-
-The Academic CV template is designed for impact. Whether you're an AI researcher, a recent graduate, or a seasoned professor, this is the last resumé you'll ever need.
-
-- **✍️ Showcase Your Expertise:** Easily write content with Markdown, Jupyter, or RStudio. Display your publications, talks, and projects in a stunning, professional layout.
-- **📈 Boost Your Citations:** Automatic BibTeX import and SEO-optimized pages mean your work gets discovered more easily, increasing your research impact.
-- **💼 Land Your Dream Job:** Create a memorable online presence that impresses recruiters from top tech firms and prestigious universities.
-- **🚀 Launch in Minutes:** No coding required. The Hugo Blox Builder lets you customize everything with drag-and-drop sections.
-
-<p align="center">
-  <a href="https://hugoblox.com/templates/academic-cv/start?utm_source=github&utm_medium=readme">
-    <img src="https://img.shields.io/badge/⚡️%20Get%20Your%20CV%20in%2060s-ff4655?style=for-the-badge" alt="Deploy this template" width="400">
-  </a>
-</p>
-
----
 
 ## Level Up with Pro Templates
 
